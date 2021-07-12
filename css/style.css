@@ -134,7 +134,7 @@ hr{
 .courses{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-column-gap: 24px;
+    grid-column-gap: 15px;
 }
  .course{
      padding: 13px 13px;

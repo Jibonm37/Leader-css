@@ -181,12 +181,13 @@ span{
 .course-time{
     background: #FEE5DF;
     border-radius: 14.6913px;
+    font-size: 10px;
     
     color: #FF4A60
     ;
 }
 .fa-clock{
-    margin-right: 6px;
+    margin-right: 3px;
     padding: 4px;
 }
 
